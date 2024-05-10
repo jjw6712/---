@@ -1,0 +1,17 @@
+.currentdistance{
+  position: absolute;
+  right: 10%;
+  bottom: 55%;
+}
+
+.totaldistance-title{
+  position: absolute;
+  /* right: %; */
+  bottom: 40%;
+}
+
+.totaldistance{
+  position: absolute;
+  right: 10%;
+  bottom: 10%;
+}

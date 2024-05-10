@@ -1,0 +1,11 @@
+.fp-is-overflow .fp-overflow.fp-auto-height,
+.fp-is-overflow .fp-overflow.fp-auto-height-responsive,
+.fp-is-overflow>.fp-overflow {
+    overflow-y: auto;
+}
+
+.pic{
+  /* background-image: url(../img/teampic/teampic-chang.png); */
+  background-size: cover;
+  background-repeat: none;
+}

@@ -1,0 +1,94 @@
+/* fullpage.css */
+
+.section{
+  /* text-align: center; */
+  font-size: 3em;
+  background-size: cover;
+  background-repeat: none;
+  background-position: center center;
+  color: white;
+}
+
+.slide{
+  background-size: cover;
+  background-repeat: none;
+  background-color: black;
+}
+
+#page1-1 {
+  background-image: url("../img/background/back1.1.png");
+}
+
+#page2-1{
+  background-image: url("../img/background/back2.1.png");
+  text-align: center;
+}
+#page2-2{
+  background-image: url("../img/background/back2.2.png");
+  text-align: center;
+}
+
+#page2-3{
+  background-image: url("../img/background/back2.2.png");
+  text-align: center;
+}
+
+#page3-1{
+  background-image: url("../img/background/back2.2.png");
+  text-align: center;
+}
+
+#page4-1{
+  /* background-image: url("../img/background/back2.3.png"); */
+  background-color: black;
+  text-align: center;
+}
+
+.fp-section {
+  /* text-align: center; */
+}
+
+.fp-watermark{
+  display: none;
+}
+
+.fp-next{
+  right: 50px
+}
+.fp-prev{
+  left: 50px
+}
+.page1-1-text{
+  font-weight: 300;
+  font-size: 3vw;
+  margin-left: -18em;
+
+}
+
+.page1-1-text p{
+  font-weight: 900;
+  font-size: 5vw;
+}
+
+/* .secondary {
+  background: transparent;
+  color: #777;
+  border: 1px solid #777;
+} */
+
+/* card */
+
+/* @media (max-width: 1024px) {
+  .fp-next{
+    display: none;
+
+  }
+  .fp-prev{
+    display: none;
+  }
+} */
+
+.arrow-left, .arrow-right {
+  display: none;
+}
+

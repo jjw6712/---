@@ -1,0 +1,40 @@
+.roadbg{
+  position: relative;
+}
+
+.Road-Box{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 100%);
+
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 50px;
+  width: 1000px;
+  height: 200px;
+
+}
+
+.Road-Box div{
+  position: relative;
+  text-align: center;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  background-color: rgb(228, 228, 228);
+  border-radius: 20px;
+  border: solid 5px rgb(177, 177, 177) ;
+  cursor: pointer;
+}
+
+.Road-Box div p{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+

@@ -1,0 +1,32 @@
+.max-engine{
+  position: absolute;
+  bottom: 50%;
+}
+
+.max-engine-per{
+  position: absolute;
+  bottom: 50%;
+  right: 10%;
+}
+
+.min-engine{
+  position: absolute;
+  bottom: 30%;
+}
+
+.min-engine-per{
+  position: absolute;
+  bottom: 30%;
+  right: 10%;
+}
+
+.avg-engine{
+  position: absolute;
+  bottom: 10%;
+}
+
+.avg-engine-per{
+  position: absolute;
+  bottom: 10%;
+  right: 10%;
+}

@@ -1,0 +1,32 @@
+.max-fuel{
+  position: absolute;
+  bottom: 50%;
+}
+
+.max-fuel-per{
+  position: absolute;
+  bottom: 50%;
+  right: 10%;
+}
+
+.min-fuel{
+  position: absolute;
+  bottom: 30%;
+}
+
+.min-fuel-per{
+  position: absolute;
+  bottom: 30%;
+  right: 10%;
+}
+
+.avg-fuel{
+  position: absolute;
+  bottom: 10%;
+}
+
+.avg-fuel-per{
+  position: absolute;
+  bottom: 10%;
+  right: 10%;
+}

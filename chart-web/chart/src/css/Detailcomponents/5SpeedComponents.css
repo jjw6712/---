@@ -1,0 +1,21 @@
+.max-speed{
+  position: absolute;
+  bottom: 50%;
+}
+
+.max-speed-per{
+  position: absolute;
+  bottom: 50%;
+  right: 10%;
+}
+
+.avg-speed{
+  position: absolute;
+  bottom: 30%;
+}
+
+.avg-speed-per{
+  position: absolute;
+  bottom: 30%;
+  right: 10%;
+}

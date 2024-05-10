@@ -1,0 +1,21 @@
+.current-drive-score-title{
+  position: absolute;
+  bottom: 55%;
+}
+
+.current-drive-score{
+  position: absolute;
+  bottom: 45%;
+  right: 10%;
+}
+
+.deduction-title{
+  position: absolute;
+  bottom: 25%;
+}
+
+.deduction-score{
+  position: absolute;
+  bottom: 15%;
+  right: 10%;
+}

@@ -1,0 +1,45 @@
+
+
+.drivestarttime-title{
+  position: absolute;
+  bottom: 70%;
+}
+
+.drivestarttime{
+  position: absolute;
+  bottom: 70%;
+  right: 10%;
+}
+
+.driveendtime-title{
+  position: absolute;
+  bottom: 50%;
+}
+
+.driveendtime{
+  position: absolute;
+  bottom: 50%;
+  right: 10%;
+}
+
+.totaldrivetime-title{
+  position: absolute;
+  bottom: 30%;
+}
+
+.totaldrivetime{
+  position: absolute;
+  bottom: 30%;
+  right: 10%;
+}
+
+.collisiontime-title{
+  position: absolute;
+  bottom: 10%;
+}
+
+.collisiontime{
+  position: absolute;
+  bottom: 10%;
+  right: 10%;
+}
